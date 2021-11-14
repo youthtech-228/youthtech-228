@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @youthtech-228
-- 👀 I’m interested in MERN/MEAN stack.
+- 👀 I’m good at MERN/MEAN, Python/Django/Flask, C#, ASP.NET Core/MVC, Java/Spring Boot, PHP/Laravel/CI.
 - 🌱 I’m currently learning Ruby on Rails.
 - 💞️ I’m looking to collaborate on remote position.
 - 📫 How to reach me ...
